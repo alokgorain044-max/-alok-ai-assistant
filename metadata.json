@@ -1,0 +1,6 @@
+{
+  "name": "ALOK AI ROBOT",
+  "description": "Futuristic personal AI robot assistant with voice and text intelligence, multilingual Hindi/English/Hinglish support, and computer tool actions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
